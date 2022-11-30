@@ -1,0 +1,6 @@
+[default]
+is_verbose = true
+[dev]
+[prod]
+[test]
+is_verbose = true

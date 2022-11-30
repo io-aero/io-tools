@@ -1,0 +1,12 @@
+*.log
+/.coverage
+/.history/
+/.idea/
+/.settings.io_template.toml
+/.vscode/
+/Pipfile.lock
+/build/
+/src/io_template.egg-info/
+/src/io_template/io_template.egg-info/
+__pycache__
+coverage.xml
