@@ -25,7 +25,7 @@ IO_TEMPLATE_VERSION = "9.9.9"
 
 # Logging constants.
 LOGGER_END = "End"
-LOGGER_NAME = "io_template"
+LOGGER_NAME = "io_tools"
 LOGGER_START = "Start"
 
 # Logger instance.

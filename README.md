@@ -43,5 +43,5 @@ Then all documentation is available in the browser.
 | Pipfile.lock      | Definition of the specific versions of the Python packages.                                     |
 | pyproject.toml    | Optional configuration data for the **bandit**, **isort**, **pydocstyle** and **pytest** tools. |
 | README.md         | This file.                                                                                      |
-| run_io_template_dev | Help script for the software development process.                                               |
+| run_io_tools_dev | Help script for the software development process.                                               |
 | setup.cfg         | Optional configuration data for **flake8** and **IO-TEMPLATE**.                                   |

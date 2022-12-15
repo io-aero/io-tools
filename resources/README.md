@@ -1,4 +1,4 @@
-# IO-TEMPLATE - File Directory **`resources`**
+# IO-TOOLS - File Directory **`resources`**
 
 This file directory contains in its subdirectory:
 

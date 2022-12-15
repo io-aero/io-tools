@@ -7,6 +7,6 @@ from dynaconf import Dynaconf  # type: ignore
 
 settings = Dynaconf(
     environments=True,
-    envvar_prefix="IO_TEMPLATE",
-    settings_files=["settings.io_template.toml", ".settings.io_template.toml"],
+    envvar_prefix="IO_TOOLS",
+    settings_files=["settings.io_tools.toml", ".settings.io_tools.toml"],
 )

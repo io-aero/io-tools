@@ -2,15 +2,15 @@
 # source code is governed by the IO-Aero License, that can
 # be found in the LICENSE.md file.
 
-"""Module io_template: Entry Point Functionality.
+"""Module io_tools: Entry Point Functionality.
 
 This is the entry point to the library IO-TEMPLATE.
 """
 import locale
 import sys
 
-from io_template import io_glob
-from io_template import io_utils
+from io_tools import io_glob
+from io_tools import io_utils
 
 # -----------------------------------------------------------------------------
 # Global variables.

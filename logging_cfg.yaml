@@ -15,7 +15,7 @@ handlers:
   file_handler:
     class: logging.FileHandler
     level: DEBUG
-    filename: logging_io-template.log
+    filename: logging_io-tools.log
     formatter: extended
 
 loggers:
