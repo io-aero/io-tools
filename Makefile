@@ -31,7 +31,7 @@ endif
 ## IO-TEMPLATE - Template Library - make Documentation.
 ##             -------------------------------------------------------------
 ##             The purpose of this Makefile is to support the whole software
-##             development process for io-template. It contains also the
+##             development process for io-tools. It contains also the
 ##             necessary tools for the CI activities.
 ##             -------------------------------------------------------------
 ##             The available make commands are:
@@ -88,7 +88,7 @@ black:              ## Format the code with Black.
 	@echo Info **********  End:   black ***************************************
 
 # VS Code
-# Setup the enviornment to develop apps using the io-template library
+# Setup the enviornment to develop apps using the io-tools library
 # Configuration file: none
 vscode:
 	@echo Info **********  Start: Setup Code Enviornment **********************
@@ -201,7 +201,7 @@ nuitka:             ## Create a dynamic link library.
 	${PIPENV} run ${PYTHON} -m nuitka --version
 	@echo ---------------------------------------------------------------------
 	${CREATE_DIST}
-	${PIPENV} run ${PYTHON} -m nuitka ${OPTION_NUITKA} --include-package=io_template --module ${PYTHONPATH} --no-pyi-file --output-dir=dist --remove-output
+	${PIPENV} run ${PYTHON} -m nuitka ${OPTION_NUITKA} --include-package=io_tools --module ${PYTHONPATH} --no-pyi-file --output-dir=dist --remove-output
 	@echo Info **********  End:   nuitka **************************************
 
 # pip is the package installer for Python.

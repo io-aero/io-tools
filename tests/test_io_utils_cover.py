@@ -4,7 +4,7 @@
 
 """io_utils: coverage testing."""
 
-from io_template import io_utils
+from io_tools import io_utils
 
 # -----------------------------------------------------------------------------
 # Constants & Globals.

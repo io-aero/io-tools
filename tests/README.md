@@ -1,3 +1,3 @@
-# IO-TEMPLATE - File Directory **`tests`**
+# IO-TOOLS - File Directory **`tests`**
 
 This directory contains all functional test scripts for [pytest](https://github.com/pytest-dev/pytest/). 

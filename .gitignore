@@ -7,6 +7,6 @@
 /Pipfile.lock
 /build/
 /src/io_template.egg-info/
-/src/io_template/io_template.egg-info/
+/src/io_tools/io_template.egg-info/
 __pycache__
 coverage.xml

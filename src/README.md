@@ -1,3 +1,3 @@
-# IO-TEMPLATE - File Directory **`src`**
+# IO-TOOLS - File Directory **`src`**
 
-This directory contains the **IO-TEMPLATE** specific Python scripts.
+This directory contains the **IO-TOOLS** specific Python scripts.

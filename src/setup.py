@@ -15,9 +15,9 @@ here = pathlib.Path(__file__).parent.resolve()
 long_description = (here / "README.md").read_text(encoding="utf-8")
 
 setup(
-    name="io-template",
+    name="io-tools",
     version="0.9.1",
-    description="Template Library",
+    description="IO Public Tool Library",
     author="IO-Aero Team",
     author_email="info@aeronetica.com",
     classifiers=[
@@ -41,5 +41,5 @@ setup(
         "Source": "https://github.com/io-aero/io-template",
     },
     python_requires=">=3.10",
-    url="https://github.com/io-aero/io-template",
+    url="https://github.com/io-aero/io-tools",
 )
